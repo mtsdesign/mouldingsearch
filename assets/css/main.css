@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+h1, h2, h3, h4, h6, h6, p {
+	font-family: 'Lato', sans-serif;
+}
+ul {
+	list-style: none;
+	column-count: 2;
+
+}
+
+.header {
+  margin:auto;
+	text-align: center;
+}
+
+#searchArea {
+	text-align: center;
+}
+
+.searchResultItems {
+	padding: 10px 0 10px 0;
+	border-bottom: 1px dotted grey;
+	width: 60%;
+	margin: 0 auto;
+
+
+}
+
+#update {
+	margin: auto;
+	text-align: center;
+
+}
